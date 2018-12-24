@@ -1,7 +1,4 @@
 /*     
- For more details see: http://projectsfromtech.blogspot.com/
- 
-
  Read char value from Serial Monitor
  Display that value on the Serial Monitor
  */
