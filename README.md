@@ -1,4 +1,4 @@
-# IOT_project
+# IOT_project (Based on Arduino/WeMos D1R2)
 A project based on applications of Internet Of Things in Agricultural advancements.
 
 # Sensors : Soil Moisture Sensor, Ultrasonic sensor(to measure the water level)
